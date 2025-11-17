@@ -521,6 +521,6 @@ Created for [Omnilingual Language Finder](https://github.com/yourusername/omnili
 
 **⏱️ Make your Python code faster, one profile at a time**
 
-[⭐ Star this repo](https://github.com/yourusername/pyprofiler) • [🐛 Report Bug](https://github.com/yourusername/pyprofiler/issues) • [💡 Request Feature](https://github.com/yourusername/pyprofiler/issues)
+[⭐ Star this repo](https://github.com/Baavro/pyprofiler) • [🐛 Report Bug](https://github.com/Baavro/pyprofiler/issues) • [💡 Request Feature](https://github.com/Baavro/pyprofiler/issues)
 
 </div>
