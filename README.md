@@ -29,7 +29,7 @@ Most Python profilers are either:
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/pyprofiler.git
+git clone https://github.com/Baavro/pyprofiler.git
 cd pyprofiler
 pip install -e .
 ```
@@ -501,7 +501,7 @@ MIT License - see [LICENSE](LICENSE) file.
 
 ## Credits
 
-Created for [Omnilingual Language Finder](https://github.com/yourusername/omnilingual-finder), extracted as standalone library for community use.
+Created for [Omnilingual Language Finder](https://github.com/Baavro/omnilingual-finder), extracted as standalone library for community use.
 
 ---
 

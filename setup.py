@@ -11,12 +11,12 @@ long_description = (this_directory / "README.md").read_text()
 setup(
     name="pyprofiler",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Sankalp Patidar",
+    author_email="patidarsankalp@gmail.com",
     description="Lightweight, zero-dependency profiling for Python applications",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/pyprofiler",
+    url="https://github.com/Baavro/pyprofiler",
     packages=find_packages(exclude=["tests", "examples"]),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -60,8 +60,8 @@ setup(
         "debugging",
     ],
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/pyprofiler/issues",
-        "Source": "https://github.com/yourusername/pyprofiler",
-        "Documentation": "https://github.com/yourusername/pyprofiler#readme",
+        "Bug Reports": "https://github.com/Baavro/pyprofiler/issues",
+        "Source": "https://github.com/Baavro/pyprofiler",
+        "Documentation": "https://github.com/Baavro/pyprofiler#readme",
     },
 )
