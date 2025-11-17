@@ -29,9 +29,6 @@ Most Python profilers are either:
 ### Installation
 
 ```bash
-pip install pyprofiler  # Once published
-
-# Or from source
 git clone https://github.com/yourusername/pyprofiler.git
 cd pyprofiler
 pip install -e .
